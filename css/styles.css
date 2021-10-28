@@ -1,0 +1,9 @@
+/* baner color #2F303A */
+/* main font color #212121 */
+/* secondary font color #757575 */
+/* futter adress font color 255, 255, 255, 0.6 */
+/* accent font color #2196F3 */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+}
