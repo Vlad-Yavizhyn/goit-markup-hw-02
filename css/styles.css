@@ -6,4 +6,143 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
+  color: #212121;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+/* logo */
+.logo-blue {
+  font-family: 'Raleway', sans-serif;
+  color: #2196f3;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+.logo-black {
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+
+.logo-white {
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+
+/* nav links */
+
+.site-nav a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #2196f3;
+}
+
+.contacts-nav {
+  color: #757575;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+.nav-link a {
+  color: #757575;
+}
+
+.contacts-nav a:hover,
+.contacts-nav a:focus {
+  color: #2196f3;
+}
+
+/* hero */
+.hero {
+  background: #2f303a;
+}
+
+.hero h1 {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.hero-button {
+  font-size: 16px;
+  line-height: 1.87;
+  color: #ffffff;
+  background: #2196f3;
+  cursor: pointer;
+}
+
+/* benefits */
+
+.benefits {
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+}
+
+.benefits p {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* What we do */
+
+.work {
+  font-size: 36px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+}
+
+/* our team */
+
+.our-team h4 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+}
+
+.our-team p {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* footer */
+
+.footer {
+  background: #2f303a;
+}
+
+.contacts-nav {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #ffffff;
 }
