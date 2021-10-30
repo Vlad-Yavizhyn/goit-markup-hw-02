@@ -146,3 +146,45 @@ a {
   letter-spacing: 0.03em;
   color: #ffffff;
 }
+.physical-adress {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+/* WebStudio's progects */
+
+.project-button {
+  background-color: #f5f4fa;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  color: #212121;
+  cursor: pointer;
+}
+
+.project-button:hover,
+.project-button:focus {
+  background-color: #2196f3;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.projects h2 {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.projects p {
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
